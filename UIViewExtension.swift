@@ -1,9 +1,9 @@
 //
-//  UIViewExtension.swift
-//  SellsSwipe
+//  AppDelegate.swift
+//  AutoLayoutTest
 //
-//  Created by Kalpesh-Jetani on 27/08/16.
-//  Copyright © 2016 Mitesh. All rights reserved.
+//  Created by jetani kalpesh on 27/08/16.
+//  Copyright © 2017 sigmacoder. All rights reserved.
 //
 
 import Foundation
